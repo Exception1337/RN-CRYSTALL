@@ -1,0 +1,9 @@
+# %time% - return a value of remaining minutes
+
+only-player: "&c&lᴄʀʏꜱᴛᴀʟʟ &7| &fДанная команда доступна &cтолько&f игрокам."
+reload-complete: "&c&lᴄʀʏꜱᴛᴀʟʟ &7| &fКонфигурация &cуспешно&f перезагружена."
+command-not-found: "&c&lᴄʀʏꜱᴛᴀʟʟ &7| &fКоманда &cне была&f найдена."
+
+# ENTER TIME IN MILLISECONDS
+cooldown-time: 10000
+cooldown-message: "&c&lᴄʀʏꜱᴛᴀʟʟ &7| &fНа данный момент у вас &cКД&f на использование &cКРИСТАЛЛОВ&f еще &c%time%&f сек."

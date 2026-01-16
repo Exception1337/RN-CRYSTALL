@@ -1,0 +1,14 @@
+name: RN-CRYSTALL
+version: '${project.version}'
+main: md.exception.rnsq.CRYSTALL
+api-version: '1.16'
+commands:
+  rncrystall:
+    aliases:
+      - rcrystall
+
+permissions:
+  rncrystall.bypass:
+    default: op
+  rncrystall.admin:
+    default: op
